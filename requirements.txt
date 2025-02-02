@@ -1,0 +1,7 @@
+polars
+numpy
+ipykernel
+matplotlib
+datetime
+pandas
+scipy
